@@ -1,0 +1,18 @@
+# les fichiers nodes #
+#######################
+node_modules/
+.package.json
+.package-lock.json
+
+## extension de liveserver ##
+############################
+.vscode/
+
+## Quelque dossiers ##
+#####################
+mainipule-JSON/
+set-time-out/
+
+## vue ##
+########################
+index.html
