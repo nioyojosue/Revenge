@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+h1,p{
+    font-size: 4rem;
+}
+img{
+    width:800px
+}
